@@ -9,4 +9,6 @@ public class SpringDataJpaHibernateExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataJpaHibernateExampleApplication.class, args);
 	}
+
+	//Test jenkins ...
 }
