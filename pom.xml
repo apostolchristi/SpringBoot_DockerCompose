@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-data-jpa-hibernate-example</name>
+	<name>spring-data-spring-data-docker-compose</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
