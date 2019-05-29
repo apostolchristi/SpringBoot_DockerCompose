@@ -12,4 +12,5 @@ public class SpringDataJpaHibernateExampleApplication {
 
 	//Test jenkins ...
 	//Test jenkins 2
+	//Test jenkins 3
 }
